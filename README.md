@@ -12,10 +12,8 @@ Hello everyone, I'm Hümeyra. I'm a artificial intelligence developer. <br>I'm c
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Trn0302&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Trn0302&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Trn0302&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+
 [![](https://visitcount.itsvg.in/api?id=Trn0302&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
